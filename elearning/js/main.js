@@ -1,5 +1,5 @@
 /*---------------------------------------------
-Template name:  Aduca
+Template name:  ArsTech E-Learning
 Description: ArsTech E-Leaning website
 Author:         TechyDevs
 Author Email:   contact@techydevs.com
